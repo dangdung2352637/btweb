@@ -252,6 +252,7 @@
 }
 .container .contact-container .contact-container_content{
     width: 42%;
+    
 }
 .container .contact-container .contact-container_content h1{
     font-size: 260%;
@@ -268,6 +269,7 @@
     color:white;
     margin-top: 5%;
     padding: 10px 30px 10px 30px;
+    border: none;
     border-radius: 8px;
 }
 
