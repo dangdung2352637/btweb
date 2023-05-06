@@ -1,0 +1,71 @@
+*{
+    
+}
+
+.body{
+    background-color: rgb(201,224,254);
+}
+
+.first{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 36px auto 0 ;
+}
+
+.first .first_one .swap{
+    border: none;
+    font-size:larger;
+    background-color: rgb(201,224,254);
+}
+
+.first .first_one .pool{
+    font-size:larger;
+    border: none;
+    background-color: rgb(201,224,254);
+}
+
+.first .first_two .connect{
+    border: none;
+    background-color:white;
+    border-radius: 8px;
+    font-size:larger;
+}
+
+/* form  */
+
+.form{
+    background-color: white;
+    margin: 10% 35% 0 35%;
+    width: 30% ;
+    border-radius: 5%;
+}
+
+.form button{
+    background-color:rgb(30,58,138) ;
+    margin: 5% 70%;
+    width: 20%;
+    border-radius: 5px;
+    padding: 8px;
+
+}
+
+input {
+    width: 70%;
+    justify-content: center;
+    font-size: larger;
+    border-radius: 5px;
+    border: 0.01rem solid ;
+    
+}
+
+select{
+    font-size: larger;
+    border-radius: 5px;
+    width: 16%;
+}
+
+.form h1{
+    padding: 3%;
+}
